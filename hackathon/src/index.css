@@ -1,0 +1,6 @@
+:root { font-family: Arial, Helvetica, sans-serif; color: #ededeb; background: #181917; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; --yellow: #e5b91d; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+button:focus-visible { outline: 2px solid var(--yellow); outline-offset: 4px; border-radius: 4px; }
+button:hover { filter: brightness(1.15); }
