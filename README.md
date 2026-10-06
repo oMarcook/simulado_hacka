@@ -6,7 +6,7 @@ MVP desenvolvido para o desafio de melhorar a experiência financeira de jovens 
 
 Muitos jovens têm dificuldade para entender seus gastos, estabelecer metas e perceber como pequenas decisões afetam seu orçamento. Informações financeiras complexas tornam esse controle ainda mais difícil.
 
-## Nossa solução
+## solução
 
 Uma aplicação que transforma os dados financeiros em informações simples e visuais, ajudando o usuário a responder:
 
